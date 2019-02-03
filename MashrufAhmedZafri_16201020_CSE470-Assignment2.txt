@@ -1,0 +1,13 @@
+Weather station functional requirements
+
+1. The user should be able to access the necessary data such as temperature, pressure, sunshine, rainfall, wind speed and wind direction, every hour, in order to get the exact (or close) weather update. This is the most crucial function of a weather station.
+
+2. Changes in data should be timely maintained and updated in the system. This will manage the weather update correctly and will not go unmatched with the actual weather.
+
+3. The system should monitor all the instruments/devices used. It should keep the condition and health of those in check. A faulty part in the station will not provide the overall accurate result. The system should also report faults immediately if any occur. A timely recovery will not askew the result too much.
+
+4. The system should shut down if there is potentially damaging weather (catastrophy).
+
+5. The system should allow for dynamic reconfiguration for updates.
+
+6. The backup electricity, namely generators, should be on if there is loss of electricity and immediately backup data. Several generators should be issued to be safe.
